@@ -1,1 +1,1 @@
-print("SAMOANOOOOO GAAAAAAAAAAA")
+print("SAMOANOOOOO GAAAAAAAAAAA, git hub easy")
